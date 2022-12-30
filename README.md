@@ -1,6 +1,6 @@
 # bookshelf-api
 Submission Bookshelf API - Dicoding
 
-run:
-```npm install```
+run: <br>
+```npm install``` <br>
 ```npm run start```
